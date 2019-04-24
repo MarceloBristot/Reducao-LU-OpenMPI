@@ -25,8 +25,8 @@
    1 `touch nomeArquivo.c,` <br/>
    2 `nano nomeArquivo.c (aqui é onde fica o algoritmo),` <br/>
    3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp` <br/>
-   4 `./nomeArquivo` <br/>
-* <br/>
+   4 `./nomeArquivo`* <br/>
+ <br/>
 
 
 
