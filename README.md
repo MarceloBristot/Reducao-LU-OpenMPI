@@ -1,8 +1,11 @@
-Este trabalho bla bla bla
+#Decomposição-LU com OpenMPI
+<br/>
+
+Este trabalho fala sobre o algoritmo de decomposição LU.
 
 *******
 
-### O que é adecomposicao-LU?
+### O que é a decomposicao-LU?
 
    >*Decomposição LU(lower, upper) é uma forma de transformar uma matriz
    com o produto de uma matriz triangular inferior e uma matriz triangular superior.
