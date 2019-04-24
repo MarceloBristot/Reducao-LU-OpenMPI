@@ -18,6 +18,18 @@
                  `PARA J = K + 1 ATÉ  N` <br/>
                               `M[I][J] = M[I][J] - L[I][K] * M[K][J]` <br/>
 
+**Como instalar o OpenMPI no Ubuntu**<br/>
+>* Abra o terminal e digite o seguinte comando:<br/>
+   `sudo apt install gcc-multilib`<br/>
+   Para compilar um arquivo (.c)  use estes comandos no terminal: <br/>
+   * `touch nomeArquivo.c,`
+   * `nano nomeArquivo.c (aqui é onde fica o algoritmo),`
+   * `gcc nomeArquivo.c -o nomeArquivo -fopenmp`
+   * `./nomeArquivo`
+* <br/>
+
+
+
 
    Trabalho com o OpenMPI sobre o algoritmo de decomposição LU.
    **Professor: Paulo João Martins - UNESC.**
