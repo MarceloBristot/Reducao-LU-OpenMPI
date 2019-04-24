@@ -6,7 +6,9 @@
    Onde L é uma matriz triangular inferior e U é uma matriz triangular superior,
    e exemplo abaixo representa essa definição.* 
    <br/>
+   
 ![Exemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8IW7enwn_rcYaN87CGYril9-S0y38_oD8oGIUIZug52fl3SR "Exemplo matriz triangular")
+
 <br/>
 
    Trabalho com o OpenMPI sobre o algoritmo de decomposição LU.
