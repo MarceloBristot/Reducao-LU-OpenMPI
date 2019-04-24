@@ -35,5 +35,7 @@
    **Professor: Paulo João Martins - UNESC.**
  
  
- **UTEIS**
+ **UTEIS** <br/>
  **[*MARKDOWN*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)**
+  **[*Decomposição-LU*](https://docs.google.com/viewera=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
+
