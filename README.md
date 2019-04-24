@@ -15,10 +15,17 @@ Este trabalho fala sobre o algoritmo de decomposição LU.
    <br/>
    
 ![Exemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx8IW7enwn_rcYaN87CGYril9-S0y38_oD8oGIUIZug52fl3SR "Exemplo matriz triangular")
-
 <br/>
 
+
 **Algoritmo:**<br/>
+
+>*A decomposição LU é basicamente uma modificação do método de eliminação de
+Gauss. A matriz é transformada em uma matriz triangular superior, eliminando os
+valores abaixo da diagonal principal. O algoritmo elimina coluna por coluna, a partir da
+esquerda.* 
+   <br/>
+
 `PARA K = 1 ATÉ N-1` <br/>
           `PARA I = K+1 ATÉ N` <br/>
                  `L[I][K] = M[I][K] / M[K][K]` <br/>
