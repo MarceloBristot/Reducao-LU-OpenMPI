@@ -22,10 +22,10 @@
 >* Abra o terminal e digite o seguinte comando:<br/>
    `sudo apt install gcc-multilib`<br/>
    Para compilar um arquivo (.c)  use estes comandos no terminal: <br/>
-   1 `touch nomeArquivo.c,`
-   2 `nano nomeArquivo.c (aqui é onde fica o algoritmo),`
-   3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp`
-   4 `./nomeArquivo`
+   1 `touch nomeArquivo.c,` <br/>
+   2 `nano nomeArquivo.c (aqui é onde fica o algoritmo),` <br/>
+   3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp` <br/>
+   4 `./nomeArquivo` <br/>
 * <br/>
 
 
