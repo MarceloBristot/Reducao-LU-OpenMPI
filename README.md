@@ -1,3 +1,7 @@
+Este trabalho bla bla bla
+
+*******
+
 ### O que é adecomposicao-LU?
 
    >*Decomposição LU(lower, upper) é uma forma de transformar uma matriz
