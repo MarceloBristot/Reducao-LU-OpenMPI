@@ -12,11 +12,11 @@
 <br/>
 
 **Algoritmo:**<br/>
-`PARA K = 1 ATÉ N-1 <br/>
-          PARA I = K+1 ATÉ N <br/>
-                 L[I][K] = M[I][K] / M[K][K] <br/>
-                 PARA J = K + 1 ATÉ  N <br/>
-                              M[I][J] = M[I][J] - L[I][K] * M[K][J]` <br/>
+`PARA K = 1 ATÉ N-1` <br/>
+          `PARA I = K+1 ATÉ N` <br/>
+                 `L[I][K] = M[I][K] / M[K][K]` <br/>
+                 `PARA J = K + 1 ATÉ  N` <br/>
+                              `M[I][J] = M[I][J] - L[I][K] * M[K][J]` <br/>
 
 
    Trabalho com o OpenMPI sobre o algoritmo de decomposição LU.
