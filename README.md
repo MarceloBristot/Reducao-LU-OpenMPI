@@ -8,7 +8,7 @@
     uma matriz com o produto de uma matriz triangular inferior
     e uma matriz triangular superior. 
     
-                                            <em>A = L.U</em>
+                                            *A = L.U*
                                                                                 
     Onde L é uma matriz triangular inferior e U é uma matriz triangular superior, o exemplo abaixo representa essa definição.
     
