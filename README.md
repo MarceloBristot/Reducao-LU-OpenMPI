@@ -41,8 +41,21 @@ esquerda.*
    3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp` <br/>
    4 `./nomeArquivo`. <br/>
  <br/>
+ 
+ **Possivel Algoritmo em C**
+ ```
+int k, n, i;
+int L[0][0], M[0][0];
 
-
+for(K=1; k<=n-1; k++){
+   for(i=k+1; i<=n; k++){
+      L[i][k] = M[i][k] / M[k][k];
+    }
+   for(j=k+1; j<=n; j++){
+      M[i][j] = M[i][j] * M[K][J];
+    }
+}
+```
 
 
    Trabalho com o OpenMPI sobre o algoritmo de decomposição LU.
