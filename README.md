@@ -1,7 +1,8 @@
 # Redução-LU com OpenMPI
 <br/>
 
-Este trabalho fala sobre o algoritmo de decomposição LU.
+   Este trabalho fala sobre a redução LU.
+   Inicialmente para enterder a redução LU, precisamos falar sobre a decomposição LU.
 
 *******
 
