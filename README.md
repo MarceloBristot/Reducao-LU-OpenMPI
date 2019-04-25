@@ -103,4 +103,9 @@ o desempenho se considerarmos o uso de clusters.*
  **Referências** <br/>
  **[*Markdown*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
  **[*Redução-LU*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
+ 
+ 
+ **Variáveis de Ambiente em processamento paralelo**
+ >*A variável de ambiente que indica o número de atividade que serpa executada é definida como ```Construção PARALLEL``` *
+ 
   
