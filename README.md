@@ -75,22 +75,22 @@ possuem homogeneidade em relação ao custo computacional.*
 de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
 programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
 
-![Algoritmo Redução LU](https://imgur.com/p74scc7)
+![Algoritmo Redução LU](https://i.imgur.com/p74scc7.png)
 
 
 **Resultados** <br/>
 1- Redução LU OmpSCR vs Redução LU[2] Sequencial.<br/>
-![N = 100](http://prntscr.com/ngw3ls) <br/>
-![N = 1000](http://prntscr.com/ngw3t0) <br/>
+![N = 100](https://image.prntscr.com/image/POYkKGG6Rq2xMIfQKuctxA.png) <br/>
+![N = 1000](https://image.prntscr.com/image/jPiKz1sdT2Wp09D2ZSZq-Q.png) <br/>
 
 2- Redução LU OMPSCR - Velocidade(speedup) e eficiência.<br/>
-![N = 100](http://prntscr.com/ngw44v) <br/>
+![N = 100](https://image.prntscr.com/image/t_ejhIrYTx2WfTgP_oS6Qg.png) <br/>
 ![N = 2000](https://image.prntscr.com/image/88fFKQUuQH2bFVdxkOomMQ.png) <br/>
 
 3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência. <br/>
-![N = 100](http://prntscr.com/ngw4wb) <br/>
-![N = 1000](http://prntscr.com/ngw524) <br/>
-![N = 2000](http://prntscr.com/ngw56f) <br/>
+![N = 100](https://image.prntscr.com/image/dP6VhTigSm2YzJ_EgKF3UA.png) <br/>
+![N = 1000](https://image.prntscr.com/image/SzFUQwPRRzSb-ML3OwJJmg.png) <br/>
+![N = 2000](https://image.prntscr.com/image/nEMPnxqESyupzEwroTmdAA.png) <br/>
 
 
 **Conclusão**
