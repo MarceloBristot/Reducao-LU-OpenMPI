@@ -54,9 +54,15 @@ ao fato de que, para calcular-se o coeficiente da próxima coluna(k+1), é neces
 a coluna k já tenha sido eliminada. O segundo e terceiro loop podem naturalmente ser
 paralelizados, visto que não existe uma dependência entre as repetições dentro deles mesmos.*
 
-* Granularidade
 * Mapeamento
+>*A abordagem de mapeamento utilizada foi dividir de forma igualitária a carga
+de processamento entre as threads disponíveis, já que as partes segmentadas
+possuem homogeneidade em relação ao custo computacional.*
+
 * Estrátegia adotada
+>*Após analisar sobre a implementação do algoritmo, surgiu a ideia de ao invés
+de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
+programa possa ser segmentado em um maior número partes.*
                               
 
 **Como instalar o OpenMPI no Ubuntu**<br/>
