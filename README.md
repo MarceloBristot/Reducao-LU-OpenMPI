@@ -111,4 +111,7 @@ o desempenho se considerarmos o uso de clusters.*
  a variável que indica se deve ser contemplado a ativação de paralelismo aninhado atende-se por ```OMP_NESTED```,
  por fim a variável que define o esquema de escalonamento das atividades paralelas é a ```OMP_SCHEDULE```.*
  
+ **Construção Parallel**
+ >*Responsável por definir uma região paralelizável sobre um bloco estruturado, as threads bloqueiam no fim da região. As informaçoes são transmitidas entre as threads.*
+ 
   
