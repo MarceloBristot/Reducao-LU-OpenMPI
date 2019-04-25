@@ -107,6 +107,7 @@ o desempenho se considerarmos o uso de clusters.*
  
  **Variáveis de Ambiente em processamento paralelo**
  >*A variável de ambiente que indica o número de atividades que seram executada é definida como ```OMP_NUM_THREADSL```,
+ existe também a variável que altera o número de threads a serem usadas e é denominada ```OMP_NUM_THREADS```,
  já a variável que indica o número de atividades a serem ou não ajustadas dinamicamente é dita como ```OMP_DYNAMIC```,
  a variável que indica se deve ser contemplado a ativação de paralelismo aninhado atende-se por ```OMP_NESTED```,
  por fim a variável que define o esquema de escalonamento das atividades paralelas é a ```OMP_SCHEDULE```.*
