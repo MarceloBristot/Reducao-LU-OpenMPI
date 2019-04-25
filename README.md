@@ -33,6 +33,17 @@ esquerda.*
                  `PARA J = K + 1 ATÉ  N` <br/>
                               `M[I][J] = M[I][J] - L[I][K] * M[K][J]` <br/>
                               
+
+**Como instalar o OpenMPI no Ubuntu**<br/>
+>* Abra o terminal e digite o seguinte comando:<br/>
+   `sudo apt install gcc-multilib`<br/>
+   Para compilar um arquivo (.c)  use estes comandos no terminal: <br/>
+   1 `touch nomeArquivo.c,` <br/>
+   2 `nano nomeArquivo.c (aqui é onde fica o algoritmo),` <br/>
+   3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp` <br/>
+   4 `./nomeArquivo`. <br/>
+ <br/>                                                      
+                              
 **Cálculo de Determinante**
 >*A decomposição LU pode ser usada para o cálculo de determinante, pois
 det(A) = det(L)*det(U), como o determinantes de matrizes triangulares são
@@ -65,22 +76,27 @@ de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com
 programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
 
 **COLOCAR IMAGEM DO ALGORITMO AQUI**
-                              
-
-**Como instalar o OpenMPI no Ubuntu**<br/>
->* Abra o terminal e digite o seguinte comando:<br/>
-   `sudo apt install gcc-multilib`<br/>
-   Para compilar um arquivo (.c)  use estes comandos no terminal: <br/>
-   1 `touch nomeArquivo.c,` <br/>
-   2 `nano nomeArquivo.c (aqui é onde fica o algoritmo),` <br/>
-   3 `gcc nomeArquivo.c -o nomeArquivo -fopenmp` <br/>
-   4 `./nomeArquivo`. <br/>
- <br/>
 
 
-   Trabalho com o OpenMPI sobre o algoritmo de decomposição LU.
-   **Professor: Paulo João Martins - UNESC.**
+**Resultados**
+*Redução LU OmpSCR vs Redução LU[2] Sequencial.
+
+
+
+*Redução LU OMPSCR - Velocidade(speedup) e eficiência
+
+
+
+*Redução LU[2] Sequencial - Velocidade(speedup) e eficiência
+
+
+
+**Conclusão**
+>*Conclui-se a idéia apresentada demonstrou desempenho baixo mas é válida a medida em que
+pode ser mais segmentada. Ela é uma boa alternativa para aumentar 
+o desempenho se considerarmos o uso de clusters.*
  
+ **Professor: Paulo João Martins - UNESC 2019.**
  
  **UTEIS** <br/>
  **[*MARKDOWN*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
