@@ -1,4 +1,4 @@
-# Decomposição-LU com OpenMPI
+# Redução-LU com OpenMPI
 <br/>
 
 Este trabalho fala sobre o algoritmo de decomposição LU.
