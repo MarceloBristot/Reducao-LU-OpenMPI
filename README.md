@@ -75,21 +75,22 @@ possuem homogeneidade em relação ao custo computacional.*
 de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
 programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
 
-![xesque](https://imgur.com/p74scc7)
+![Algoritmo Redução LU](https://imgur.com/p74scc7)
 
 
 **Resultados** <br/>
 1- Redução LU OmpSCR vs Redução LU[2] Sequencial.
-![AlgoritmoReducaoLU](http://prntscr.com/ngw3ls)
-![AlgoritmoReducaoLU](http://prntscr.com/ngw3t0)
-
+![N = 100](http://prntscr.com/ngw3ls)
+![N = 1000](http://prntscr.com/ngw3t0)
 
 2- Redução LU OMPSCR - Velocidade(speedup) e eficiência
-
-
+![N = 100](http://prntscr.com/ngw44v)
+![N = 2000](http://prntscr.com/ngw4cq)
 
 3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência
-
+![N = 100](http://prntscr.com/ngw4wb)
+![N = 1000](http://prntscr.com/ngw524)
+![N = 2000](http://prntscr.com/ngw56f)
 
 
 **Conclusão**
@@ -99,21 +100,7 @@ o desempenho se considerarmos o uso de clusters.*
  
  **Professor: Paulo João Martins - UNESC 2019.**
  
- **UTEIS** <br/>
- **[*MARKDOWN*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
-  **[*Decomposição-LU*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
+ **Referências** <br/>
+ **[*Markdown*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
+ **[*Redução-LU*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
   
-  **prints**
- 
-  ***
-  
-  
-  http://prntscr.com/ngw44v
-  http://prntscr.com/ngw4cq
-  ***
-  http://prntscr.com/ngw4wb
-  http://prntscr.com/ngw524
-  http://prntscr.com/ngw56f
-  
-  
-
