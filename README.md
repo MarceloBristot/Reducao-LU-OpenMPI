@@ -85,7 +85,7 @@ programa possa ser segmentado em um maior número partes. A seguir segue a imple
 
 2- Redução LU OMPSCR - Velocidade(speedup) e eficiência.<br/>
 ![N = 100](http://prntscr.com/ngw44v) <br/>
-![N = 2000](http://prntscr.com/ngw4cq) <br/>
+![N = 2000](https://image.prntscr.com/image/88fFKQUuQH2bFVdxkOomMQ.png) <br/>
 
 3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência. <br/>
 ![N = 100](http://prntscr.com/ngw4wb) <br/>
