@@ -75,7 +75,7 @@ possuem homogeneidade em relação ao custo computacional.*
 de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
 programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
 
-![AlgoritmoReducaoLU](http://prntscr.com/ngw32c)
+![AlgoritmoReducaoLU](https://imgur.com/p74scc7)
 
 
 **Resultados**
