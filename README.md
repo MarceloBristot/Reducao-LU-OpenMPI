@@ -78,17 +78,17 @@ programa possa ser segmentado em um maior número partes. A seguir segue a imple
 ![](https://imgur.com/p74scc7)
 
 
-**Resultados**
-*Redução LU OmpSCR vs Redução LU[2] Sequencial.
+**Resultados** <br/>
+1- Redução LU OmpSCR vs Redução LU[2] Sequencial.
 ![AlgoritmoReducaoLU](http://prntscr.com/ngw3ls)
 ![AlgoritmoReducaoLU](http://prntscr.com/ngw3t0)
 
 
-*Redução LU OMPSCR - Velocidade(speedup) e eficiência
+2- Redução LU OMPSCR - Velocidade(speedup) e eficiência
 
 
 
-*Redução LU[2] Sequencial - Velocidade(speedup) e eficiência
+3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência
 
 
 
