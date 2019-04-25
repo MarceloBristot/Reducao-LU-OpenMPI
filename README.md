@@ -32,6 +32,23 @@ esquerda.*
                  `L[I][K] = M[I][K] / M[K][K]` <br/>
                  `PARA J = K + 1 ATÉ  N` <br/>
                               `M[I][J] = M[I][J] - L[I][K] * M[K][J]` <br/>
+                              
+**Cálculo de Determinante**
+>*A decomposição LU pode ser usada para o cálculo de determinante, pois
+det(A) = det(L)*det(U), como o determinantes de matrizes triangulares são
+simplesmente a multiplicação de sua diagonal principal, a operação é realizada de forma eficiente.*<br/>
+
+**Redução LU**
+>*Redução LU é um algoritmo paralelo relacionado à decomposição LU, em geral a
+versão paralela distribui a eliminação de cada linha da matriz. A expressão é usada em
+geral no contexto de supercomputação. *<br/>
+
+**+Estratégias de Paralelização e Limitações**
+* Particionamento
+* Granularidade
+* Mapeamento
+* Estrátegia adotada
+                              
 
 **Como instalar o OpenMPI no Ubuntu**<br/>
 >* Abra o terminal e digite o seguinte comando:<br/>
