@@ -75,13 +75,13 @@ possuem homogeneidade em relação ao custo computacional.*
 de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
 programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
 
-![Algoritmo Reducao LU](http://prntscr.com/ngw32c "Exemplo algoritmo redução LU")
+![AlgoritmoReducaoLU](http://prntscr.com/ngw32c)
 
 
 **Resultados**
 *Redução LU OmpSCR vs Redução LU[2] Sequencial.
-![Algoritmo Reducao LU](http://prntscr.com/ngw3ls "Exemplo algoritmo redução LU")
-![Algoritmo Reducao LU](http://prntscr.com/ngw3t0 "Exemplo algoritmo redução LU")
+![AlgoritmoReducaoLU](http://prntscr.com/ngw3ls)
+![AlgoritmoReducaoLU](http://prntscr.com/ngw3t0)
 
 
 *Redução LU OMPSCR - Velocidade(speedup) e eficiência
