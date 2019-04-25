@@ -79,18 +79,18 @@ programa possa ser segmentado em um maior número partes. A seguir segue a imple
 
 
 **Resultados** <br/>
-1- Redução LU OmpSCR vs Redução LU[2] Sequencial.
-![N = 100](http://prntscr.com/ngw3ls)
-![N = 1000](http://prntscr.com/ngw3t0)
+1- Redução LU OmpSCR vs Redução LU[2] Sequencial.<br/>
+![N = 100](http://prntscr.com/ngw3ls) <br/>
+![N = 1000](http://prntscr.com/ngw3t0) <br/>
 
-2- Redução LU OMPSCR - Velocidade(speedup) e eficiência
-![N = 100](http://prntscr.com/ngw44v)
-![N = 2000](http://prntscr.com/ngw4cq)
+2- Redução LU OMPSCR - Velocidade(speedup) e eficiência.<br/>
+![N = 100](http://prntscr.com/ngw44v) <br/>
+![N = 2000](http://prntscr.com/ngw4cq) <br/>
 
-3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência
-![N = 100](http://prntscr.com/ngw4wb)
-![N = 1000](http://prntscr.com/ngw524)
-![N = 2000](http://prntscr.com/ngw56f)
+3- Redução LU[2] Sequencial - Velocidade(speedup) e eficiência. <br/>
+![N = 100](http://prntscr.com/ngw4wb) <br/>
+![N = 1000](http://prntscr.com/ngw524) <br/>
+![N = 2000](http://prntscr.com/ngw56f) <br/>
 
 
 **Conclusão**
