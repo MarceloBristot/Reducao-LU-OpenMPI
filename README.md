@@ -41,10 +41,19 @@ simplesmente a multiplicação de sua diagonal principal, a operação é realiz
 **Redução LU**
 >*Redução LU é um algoritmo paralelo relacionado à decomposição LU, em geral a
 versão paralela distribui a eliminação de cada linha da matriz. A expressão é usada em
-geral no contexto de supercomputação. *<br/>
+geral no contexto de supercomputação.*<br/>
 
-**+Estratégias de Paralelização e Limitações**
+**Estratégias de Paralelização e Limitações**
 * Particionamento
+>*O algoritmo mostrado anteriormente demonstra a utilização de três loops. Deste modo, deve-se
+diagnosticar o problema tendo em mente em qual destes
+loops haverá um particionamento para paralelização do programa. Tendo
+conhecimento do funcionamento do algoritmo, pode-se perceber que o loop mais
+externo não pode ser paralelizado, isso deve-se
+ao fato de que, para calcular-se o coeficiente da próxima coluna(k+1), é necessário que
+a coluna k já tenha sido eliminada. O segundo e terceiro loop podem naturalmente ser
+paralelizados, visto que não existe uma dependência entre as repetições dentro deles mesmos.*
+
 * Granularidade
 * Mapeamento
 * Estrátegia adotada
