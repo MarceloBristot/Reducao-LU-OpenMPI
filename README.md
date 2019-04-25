@@ -62,7 +62,9 @@ possuem homogeneidade em relação ao custo computacional.*
 * Estrátegia adotada
 >*Após analisar sobre a implementação do algoritmo, surgiu a ideia de ao invés
 de utilizar três (3) loops, fosse utilizado somente dois (2) loops, fazendo com que o
-programa possa ser segmentado em um maior número partes.*
+programa possa ser segmentado em um maior número partes. A seguir segue a implementação final.*
+
+**COLOCAR IMAGEM DO ALGORITMO AQUI**
                               
 
 **Como instalar o OpenMPI no Ubuntu**<br/>
