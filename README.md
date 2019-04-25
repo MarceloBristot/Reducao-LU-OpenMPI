@@ -101,4 +101,18 @@ o desempenho se considerarmos o uso de clusters.*
  **UTEIS** <br/>
  **[*MARKDOWN*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
   **[*Decomposição-LU*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
+  
+  **prints**
+  http://prntscr.com/ngw32c
+  ***
+  http://prntscr.com/ngw3ls
+  http://prntscr.com/ngw3t0
+  http://prntscr.com/ngw44v
+  http://prntscr.com/ngw4cq
+  ***
+  http://prntscr.com/ngw4wb
+  http://prntscr.com/ngw524
+  http://prntscr.com/ngw56f
+  
+  
 
