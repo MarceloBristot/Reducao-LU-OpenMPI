@@ -100,7 +100,7 @@ o desempenho se considerarmos o uso de clusters.*
  
  **Professor: Paulo João Martins - UNESC 2019.**
  
- **Referências** <br/>
+ **Materiais Utilizados** <br/>
  **[*Markdown*](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)** <br/>
  **[*Redução-LU*](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwcGFyYWxlbGEyOHxneDo0M2JmZjQ3ZDE0YmQ3MjI5)**
  
